@@ -1,0 +1,14 @@
+# Object files
+*.o
+
+# Executables
+simple_db
+
+# VSCode settings
+.vscode/
+
+# Build directory
+build/
+
+# Misc
+*.log
